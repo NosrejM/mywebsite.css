@@ -50,7 +50,6 @@ footer {
   }
   .card img {
     margin-bottom: 10px;
-    width: 100%;
     display: inline;
     object-fit: cover;
   }
